@@ -21,3 +21,7 @@ between client and server. Mustache template scripts are also used to dynamicall
 <p>https://google.com/maps</p>
 <p>Google maps is used to allow users to share their locations if they choose. The user's latitude and longitude are accessed from their browser, and a link is created to 
 a Google map pin of their location.</p>
+
+## Development server
+
+Run `npm dev` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
