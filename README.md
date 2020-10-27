@@ -1,7 +1,7 @@
 <h1>Chat App</h1>
 
 <h2>Live Application</h2>
-<p>https://scoggins-chat-app.herokuapp.com//</p>
+<p>https://scoggins-chat-app.herokuapp.com/</p>
 
 <h2>Purpose</h2>
 <p>This application allows users to enter a chat room and share messages in real time. Usernames must be unique to each chat room, and room names must be manually entered.
